@@ -1,8 +1,8 @@
 {
   "DateSlot": "2023-01-13T00:00:00",
-  "TimeBegin": "2023-01-13T08:45:00",
-  "TimeEnd": "2023-01-13T17:15:00",
-  "Patient": {
+  "timeBegin": "2023-01-13T08:45:00",
+  "timeEnd": "2023-01-13T17:15:00",
+  "patient": {
     "passport": null,
     "snils": "900-999-717 44",
     "birthday": "1985-10-26T00:00:00",
