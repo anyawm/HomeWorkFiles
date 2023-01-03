@@ -1,11 +1,11 @@
 package stud.anna.model;
 
-import com.google.gson.annotations.SerializedName;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class PatientSlot {
 
 
-    @SerializedName("DateSlot")
+    @JsonProperty("DateSlot")
     public String dateSlot;
     public String timeBegin;
     public String timeEnd;

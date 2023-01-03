@@ -1,7 +1,6 @@
 package stud.anna;
 
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import stud.anna.model.PatientSlot;
